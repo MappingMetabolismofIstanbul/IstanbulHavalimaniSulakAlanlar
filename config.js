@@ -174,7 +174,7 @@ var config = {
             hidden: false,
             title: '3. Havalimanı Projesinde Toprağın Metabolik Dolaşımı: 2000 ve 2020 yılları arasında uydu fotoğraflarının çakıştırılması ile oluşturulan çalışmada, havalimanı proje alanı ve kuzeyindeki toprak hareketliliği incelendiğinde açık maden ocakları ve sulak alanlarda gerçekleşen “sürekli bir doldurma ve boşaltma” hamlesine rastlanır. Bir başka deyişle, kentin metabolizmasında betonun dolaşımı ile toprağın dolaşımı birbirine dolanıktır.',
             image: 'https://i.ibb.co/Fk26sn1M/simsiz-video-Clipchamp-ile-yap-ld-10.gif',
-            description: 'Metabolic FLow of Soil Metabolic Flows of Soil in the Context of the 3rd Airport Project: In the visualization study created by overlaying satellite images from the years 2000 and 2020, an examination of the airport project area and the changes in soil movement and flow in the northern part of the area reveals a continuous pattern of filling and emptying in open-pit mines and wetlands. In other words, the flow of concrete and the flow of soil are entangled within the metabolism of the city.',
+            description: 'Metabolic FLow of Soil in the Context of the 3rd Airport Project: In the visualization study created by overlaying satellite images from the years 2000 and 2020, an examination of the airport project area and the changes in soil movement and flow in the northern part of the area reveals a continuous pattern of filling and emptying in open-pit mines and wetlands. In other words, the flow of concrete and the flow of soil are entangled within the metabolism of the city.',
             location: {
                 center: [28.743,41.256],
                 zoom: 11.5,
